@@ -23,7 +23,7 @@ class Solution {
         while (!pq1.isEmpty()) {
             Integer pq1Remove = pq1.poll();
             Integer pq2Remove = pq2.poll();
-            if (!pq1Remove.equals(pq2Remove)) {
+            if (!pq1.poll().equals(pq2.poll())) {
                 return false;
             }
         }
