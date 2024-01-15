@@ -23,7 +23,6 @@ class Solution {
                 players.remove(matches[i][1]);
             }
         }
-        System.out.println("Loser set is " + loserSet);
         List<Integer> list_1 = new LinkedList<>(players);
         Collections.sort(list_1);
         result.add(list_1);
