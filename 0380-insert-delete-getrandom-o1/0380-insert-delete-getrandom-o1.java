@@ -1,8 +1,10 @@
 class RandomizedSet {
     Set<Integer> randSet;
+    Random rand;
 
     public RandomizedSet() {
         randSet = new HashSet<>();
+        rand = new Random();
     }
     
     public boolean insert(int val) {
@@ -22,7 +24,7 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        Random rand = new Random();
+        
         int index = rand.nextInt(randSet.size());
         List<Integer> list = new LinkedList<>(randSet);
         return list.get(index);
