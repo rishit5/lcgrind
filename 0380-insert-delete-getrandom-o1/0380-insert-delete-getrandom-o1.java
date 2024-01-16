@@ -1,41 +1,38 @@
 class RandomizedSet {
-    List<Integer> randList;
-    Map<Integer, Integer> randMap;
-    Random rand;
+    private ArrayList<Integer> list;
+    private Map<Integer, Integer> map;
 
     public RandomizedSet() {
-        randList = new LinkedList<>();
-        randMap = new HashMap<>();
-        rand = new Random();
+        list = new ArrayList<>();
+        map = new HashMap<>();
     }
-    
+
+    public boolean search(int val) {
+        return map.containsKey(val);
+    }
+
     public boolean insert(int val) {
-        if (randMap.containsKey(val)) {
-            return false;    
-        }
-        randList.add(val);
-        randMap.put(val, randList.size() - 1);
+        if (search(val)) return false;
+
+        list.add(val);
+        map.put(val, list.size() - 1);
         return true;
     }
-    
+
     public boolean remove(int val) {
-        if (randMap.containsKey(val)) {
-            randList.remove(randMap.get(val));
-            randMap.remove(val);
-            return true;    
-        }
-        return false;
+        if (!search(val)) return false;
+
+        int index = map.get(val);
+        list.set(index, list.get(list.size() - 1));
+        map.put(list.get(index), index);
+        list.remove(list.size() - 1);
+        map.remove(val);
+
+        return true;
     }
-    
+
     public int getRandom() {
-        return randList.get(rand.nextInt(randList.size()));
+        Random rand = new Random();
+        return list.get(rand.nextInt(list.size()));
     }
 }
-
-/**
- * Your RandomizedSet object will be instantiated and called as such:
- * RandomizedSet obj = new RandomizedSet();
- * boolean param_1 = obj.insert(val);
- * boolean param_2 = obj.remove(val);
- * int param_3 = obj.getRandom();
- */
