@@ -14,8 +14,8 @@ class Solution {
         int total = (nums.length * (nums.length + 1)) / 2;
         int[] resu = new int[2];
         if (sum > total) {
-            resu[1] = rep - (sum - total);
             resu[0] = rep;
+            resu[1] = rep - (sum - total);
         } else {
             resu[0] = rep;
             resu[1] = rep + (total-sum);
