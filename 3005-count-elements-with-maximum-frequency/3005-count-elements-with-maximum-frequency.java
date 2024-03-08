@@ -11,8 +11,8 @@ class Solution {
             }
         }
         int result = 0;
-        for (Map.Entry<Integer, Integer> entry : counts.entrySet()) {
-            if (entry.getValue() == maxSoFar) {
+        for (int i: counts.keySet()) {
+            if (counts.get(i) == maxSoFar) {
                 result += maxSoFar;
             }
         }
