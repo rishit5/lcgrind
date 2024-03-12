@@ -1,28 +1,33 @@
 class Solution {
-    List<List<Integer>> result = new LinkedList<>();
-    
-    public void calculate(int[] candidates, int target, List<Integer> path) {
-        if (target == 0) {
-            Collections.sort(path);
-            if (!result.contains(path)) {
-                result.add(new LinkedList<>(path));
-            }
+    HashSet<List<Integer>> res = new HashSet<>();
+    int[] candidates; 
+    int target;
+
+    public void subset(int i, int sumSoFar, List<Integer> path) {
+        if (sumSoFar == target) {
+            res.add(new ArrayList<>(path));
             return;
-        } else if (target < 0) {
-            return;
-        } else {
-            for (int i = 0; i < candidates.length; i++) {
-                List<Integer> newPath = new LinkedList<>(path);
-                newPath.add(candidates[i]);
-                calculate(candidates, target - candidates[i], newPath);
-            }
         }
-        
-        
+
+        if (i >= candidates.length || sumSoFar > target) {
+            return;
+        }
+
+        path.add(candidates[i]);
+        subset(i, sumSoFar + candidates[i], path);
+        path.remove(path.size() - 1);
+
+        subset(i + 1, sumSoFar, path);
     }
-    
+
+
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        calculate(candidates, target, new LinkedList<>());  
-        return result;
+        List<Integer> path = new ArrayList<>();
+        Arrays.sort(candidates);
+        this.target = target;
+        this.candidates = candidates;
+
+        subset(0, 0, path);
+        return new ArrayList<>(res);
     }
 }
