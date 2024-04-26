@@ -8,13 +8,6 @@ class Solution {
         
         for (int i = 1; i < grid.length; i++) {
             for (int j = 0; j < grid.length; j++) {
-                // if (j == 0) {
-                //     dp[i][j] = grid[i][j] + dp[i-1][j+1];
-                // } else if (j == grid.length - 1) {
-                //     dp[i][j] = grid[i][j] + dp[i-1][j-1];
-                // } else {
-                //     dp[i][j] = grid[i][j] + Math.min(dp[i-1][j-1], dp[i-1][j+1]);
-                // }
                 int minSoFar = 99999999;
                 for (int k = 0; k < grid.length; k++) {
                     if (k == j) {
