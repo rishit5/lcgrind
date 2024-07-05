@@ -33,7 +33,6 @@ class Solution:
                 continue
             else:
                 min_ = min(points_[i+1] - points_[i], min_)
-        # print(len_)
         if len(points_) < 2:
             return [-1, -1]
         return [min_, points_[-1] - points_[0]]
