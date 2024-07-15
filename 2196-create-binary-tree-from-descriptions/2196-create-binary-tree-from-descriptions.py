@@ -26,7 +26,4 @@ class Solution:
                 nodes[description[0]] = [description[1], nodes[description[0]][1]]
             else:
                 nodes[description[0]] = [nodes[description[0]][0], description[1]]
-        # currNode = treeNode
-        # print(f"Nodes are {nodes}")
-        # print(f"RootVal is {rootVal}")
         return self.build(rootVal, nodes)
