@@ -2,10 +2,6 @@ class Solution {
     public int minimumDeletions(String s) {
         int[][] counts_back = new int[s.length()][2];
         int[][] counts = new int[s.length()][2];
-        for (int i = 0; i <s.length(); i++) {
-            Arrays.fill(counts[i], 0);
-            Arrays.fill(counts_back[i], 0);
-        }
         for (int i = 0; i < s.length(); i++) {
             if (i == 0) {
                 if (s.charAt(i) == 'a') {
@@ -47,7 +43,6 @@ class Solution {
         int max = -1;
         for (int i = 0; i < s.length(); i++) {
             max = Math.max(counts[i][0] + counts_back[i][1], max);  
-            // System.out.println(counts[i][0] + " " + counts_back[i][1]);
         }
         return s.length() - max;
     }
