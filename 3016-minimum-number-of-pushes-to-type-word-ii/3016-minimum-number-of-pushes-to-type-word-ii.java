@@ -10,6 +10,9 @@ class Solution {
         int count = 1;
         int presses = 1;
         for (int i : frequency) {
+            if (i == 0) {
+                break;
+            }
             if (count >= 1 && count <=8) {
                 presses = 1;
             } else if (count >= 9 && count <= 16) {
