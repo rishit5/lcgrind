@@ -16,12 +16,14 @@ class Solution {
         ListNode headNext = head.next;
         ListNode result = head;
         while (headNext != null) {
-            for (int i = Math.min(head.val, headNext.val); i >= 1; i--) {
-                if (head.val % i == 0 && headNext.val % i == 0) {
-                    head.next = new ListNode(i, headNext);
-                    break;
-                }
+            int a = headNext.val;
+            int b = head.val;
+            while (b != 0) {
+            int temp = b;
+                b = a % b;
+                a = temp;
             }
+            head.next = new ListNode(a, headNext);
             head = headNext;
             headNext = headNext.next;
         }
