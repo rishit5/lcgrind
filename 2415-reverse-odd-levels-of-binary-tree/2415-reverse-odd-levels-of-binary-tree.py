@@ -29,13 +29,10 @@ class Solution:
                         list_1.append(nowCurr)
                         list_.append(nowCurr.right)
                         list_.append(nowCurr.left)
-                    for i,n in enumerate(list_1):
-                        if i >= len(list_1) / 2:
-                            break
-                        else:
-                            temp = list_1[i].val
-                            list_1[i].val = list_1[len(list_1) - i - 1].val
-                            list_1[len(list_1) - i - 1].val = temp
+                    for i,n in enumerate(list_1[:(len(list_1)//2)]):
+                        temp = list_1[i].val
+                        list_1[i].val = list_1[len(list_1) - i - 1].val
+                        list_1[len(list_1) - i - 1].val = temp
                 else:
                     list_.append(curr.right)
                     list_.append(curr.left)
