@@ -5,19 +5,6 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def reverseLevel(self, root, count):
-        if root == None:
-            return None
-        if count % 2 == 0 and root.right != None and root.left != None:
-            temp = None
-            temp = root.left.val
-            root.left.val = root.right.val
-            root.right.val = temp
-        root.right = self.reverseLevel(root.right, count + 1)
-        root.left = self.reverseLevel(root.left, count + 1)
-        return root
-            
-        
     def reverseOddLevels(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         list_ = []
         list_.append(root)
@@ -46,16 +33,11 @@ class Solution:
                         if i >= len(list_1) / 2:
                             continue
                         else:
-                            # print(f"List_1 is {list_1}")
-                            # print(f"Swapping {i} and {init} {list_1[i].val} {list_1[len(list_1) - i - 1].val}")
                             temp = list_1[i].val
                             list_1[i].val = list_1[len(list_1) - i - 1].val
                             list_1[len(list_1) - i - 1].val = temp
-                            # print(f"And now Swapping {list_1[i].val} {list_1[len(list_1) - i - 1].val}")
-                    # init += 1
                 else:
                     list_.append(curr.right)
                     list_.append(curr.left)
-                    # print(f"List please {list_}")
         return root
                 
