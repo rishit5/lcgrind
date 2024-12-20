@@ -31,7 +31,7 @@ class Solution:
                         list_.append(nowCurr.left)
                     for i,n in enumerate(list_1):
                         if i >= len(list_1) / 2:
-                            continue
+                            break
                         else:
                             temp = list_1[i].val
                             list_1[i].val = list_1[len(list_1) - i - 1].val
