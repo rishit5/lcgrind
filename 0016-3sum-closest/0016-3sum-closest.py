@@ -16,4 +16,6 @@ class Solution:
                     start += 1
                 else:
                     end -= 1
+            if closest_ == 0:
+                break
         return result
