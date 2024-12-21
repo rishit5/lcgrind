@@ -7,4 +7,4 @@ class Solution:
                 nums[start] = n
                 start += 1
                 set_.add(n)
-        return len(list(set_))
+        return len(set_)
