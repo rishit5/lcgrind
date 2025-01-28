@@ -1,43 +1,38 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        // Ensure nums1 is the shorter array to optimize the binary search
+        // Ensure nums1 is the smaller array
         if (nums1.length > nums2.length) {
-            int[] temp = nums1;
-            nums1 = nums2;
-            nums2 = temp;
+            return findMedianSortedArrays(nums2, nums1);
         }
         
         int m = nums1.length;
         int n = nums2.length;
         int low = 0, high = m;
-        int totalLength = m + n;
         
         while (low <= high) {
-            int i = (low + high) / 2; // Partition point in nums1
-            int j = (totalLength + 1) / 2 - i; // Corresponding partition point in nums2
+            int partitionX = (low + high) / 2;
+            int partitionY = (m + n + 1) / 2 - partitionX;
             
-            // Handle edge cases where partitions are at the boundaries
-            int nums1Left = (i == 0) ? Integer.MIN_VALUE : nums1[i - 1];
-            int nums1Right = (i == m) ? Integer.MAX_VALUE : nums1[i];
-            int nums2Left = (j == 0) ? Integer.MIN_VALUE : nums2[j - 1];
-            int nums2Right = (j == n) ? Integer.MAX_VALUE : nums2[j];
+            int maxX = (partitionX == 0) ? Integer.MIN_VALUE : nums1[partitionX - 1];
+            int minX = (partitionX == m) ? Integer.MAX_VALUE : nums1[partitionX];
             
-            if (nums1Left <= nums2Right && nums2Left <= nums1Right) {
-                // Correct partition found
-                if (totalLength % 2 == 0) {
-                    return (Math.max(nums1Left, nums2Left) + Math.min(nums1Right, nums2Right)) / 2.0;
+            int maxY = (partitionY == 0) ? Integer.MIN_VALUE : nums2[partitionY - 1];
+            int minY = (partitionY == n) ? Integer.MAX_VALUE : nums2[partitionY];
+            
+            if (maxX <= minY && maxY <= minX) {
+                // Found the correct partition
+                if ((m + n) % 2 == 0) {
+                    return ((double)Math.max(maxX, maxY) + Math.min(minX, minY)) / 2;
                 } else {
-                    return Math.max(nums1Left, nums2Left);
+                    return (double)Math.max(maxX, maxY);
                 }
-            } else if (nums1Left > nums2Right) {
-                // Move partition in nums1 to the left
-                high = i - 1;
+            } else if (maxX > minY) {
+                high = partitionX - 1; // Move left
             } else {
-                // Move partition in nums1 to the right
-                low = i + 1;
+                low = partitionX + 1; // Move right
             }
         }
         
-        return 0.0; // This return is a fallback and should never be reached
+        throw new IllegalArgumentException("Input arrays are not sorted");
     }
 }
