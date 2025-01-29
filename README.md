@@ -17,6 +17,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/rishit5/lcgrind/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -48,4 +49,5 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rishit5/lcgrind/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
