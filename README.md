@@ -5,10 +5,12 @@ Some solutions are good, some are okay
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
 ## Array
 |  |
@@ -18,6 +20,7 @@ Some solutions are good, some are okay
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -36,4 +39,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/0004-median-of-two-sorted-arrays) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
