@@ -50,4 +50,5 @@ Some solutions are good, some are okay
 | ------- |
 | [0039-combination-sum](https://github.com/rishit5/lcgrind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
+| [0254-factor-combinations](https://github.com/rishit5/lcgrind/tree/master/0254-factor-combinations) |
 <!---LeetCode Topics End-->
