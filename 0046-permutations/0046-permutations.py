@@ -6,18 +6,12 @@ class Solution:
         if i == len(nums):
             self.result.append(nums.copy())
             return
+
         for j in range(i, len(nums)):
-            temp = nums[i]
-            nums[i] = nums[j]
-            nums[j] = temp
-            # self.result.append(nums.copy())
+            nums[i], nums[j] = nums[j], nums[i]
             self.branch(i+1, nums)
-            temp = nums[i]
-            nums[i] = nums[j]
-            nums[j] = temp
+            nums[i], nums[j] = nums[j], nums[i]
 
     def permute(self, nums: List[int]) -> List[List[int]]:
-        # for i in range(len(nums)):
         self.branch(0, nums)
-        # self.result.append(nums.copy())
         return self.result
