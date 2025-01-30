@@ -6,6 +6,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
+| [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
 ## Breadth-First Search
 |  |
@@ -51,4 +52,12 @@ Some solutions are good, some are okay
 | [0039-combination-sum](https://github.com/rishit5/lcgrind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
 | [0254-factor-combinations](https://github.com/rishit5/lcgrind/tree/master/0254-factor-combinations) |
+## Tree
+|  |
+| ------- |
+| [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
+## Binary Tree
+|  |
+| ------- |
+| [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 <!---LeetCode Topics End-->
