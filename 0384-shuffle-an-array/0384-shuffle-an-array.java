@@ -22,9 +22,8 @@ class Solution {
             int temp = copy[j];
             copy[j] = copy[i];
             copy[i] = temp;
-            this.shuffle(i+1, copy);
+            return this.shuffle(i+1, copy);
         }
-        return copy;
     }
     
     public int[] reset() {
