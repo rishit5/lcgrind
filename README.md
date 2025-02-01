@@ -27,6 +27,7 @@ Some solutions are good, some are okay
 | [0039-combination-sum](https://github.com/rishit5/lcgrind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rishit5/lcgrind/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
 | [3429-special-array-i](https://github.com/rishit5/lcgrind/tree/master/3429-special-array-i) |
@@ -67,6 +68,7 @@ Some solutions are good, some are okay
 | [0039-combination-sum](https://github.com/rishit5/lcgrind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rishit5/lcgrind/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
 | [0254-factor-combinations](https://github.com/rishit5/lcgrind/tree/master/0254-factor-combinations) |
 ## Tree
 |  |
