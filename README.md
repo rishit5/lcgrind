@@ -121,4 +121,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/rishit5/lcgrind/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
