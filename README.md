@@ -8,6 +8,7 @@ Some solutions are good, some are okay
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
@@ -17,6 +18,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
 ## Array
 |  |
@@ -57,6 +59,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,4 +99,5 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
