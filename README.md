@@ -29,6 +29,7 @@ Some solutions are good, some are okay
 | [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rishit5/lcgrind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
+| [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
@@ -125,4 +126,9 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/rishit5/lcgrind/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
