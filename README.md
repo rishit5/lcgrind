@@ -29,6 +29,7 @@ Some solutions are good, some are okay
 | [0046-permutations](https://github.com/rishit5/lcgrind/tree/master/0046-permutations) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
+| [3429-special-array-i](https://github.com/rishit5/lcgrind/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
