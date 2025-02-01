@@ -13,7 +13,7 @@ class Solution {
                 double spacesLeft = spaces;
                 String currResult = words[end];
                 lastString1 = words[end];
-                System.out.println(spaces + " " + totalGaps);
+                // System.out.println(spaces + " " + totalGaps);
                 for (int j = end+1; j <= i; j++) {
                     lastString1 += " " + words[j];
                     double spacesTaken = Math.min(Math.ceil(spacesLeft/totalGaps), spacesLeft);
