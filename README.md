@@ -10,6 +10,7 @@ Some solutions are good, some are okay
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,12 +63,14 @@ Some solutions are good, some are okay
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
