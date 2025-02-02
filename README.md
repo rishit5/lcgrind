@@ -5,6 +5,7 @@ Some solutions are good, some are okay
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rishit5/lcgrind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
@@ -18,6 +19,7 @@ Some solutions are good, some are okay
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rishit5/lcgrind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
@@ -83,6 +85,7 @@ Some solutions are good, some are okay
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rishit5/lcgrind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -93,6 +96,7 @@ Some solutions are good, some are okay
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rishit5/lcgrind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
