@@ -40,7 +40,7 @@ class Solution {
                 result += 1;
                 continue;
             }
-            System.out.println("For curr: " + curr);
+            // System.out.println("For curr: " + curr);
             for (int i = 0; i < curr.length(); i++) {
                 String res = curr.substring(0, i) + "*" + curr.substring(i+1, curr.length());
                 myMap.putIfAbsent(res, new LinkedList<>());
@@ -49,7 +49,7 @@ class Solution {
                     if (s.equals(curr) || visited.contains(s)) {
                         continue;
                     }
-                    System.out.println(s);
+                    // System.out.println(s);
                     queue.add(s);
                 }
             }
