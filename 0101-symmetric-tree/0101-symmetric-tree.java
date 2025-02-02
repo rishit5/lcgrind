@@ -14,17 +14,30 @@
  * }
  */
 class Solution {
-    public boolean isSameTree(TreeNode left, TreeNode right){
-        if(left==null && right==null) return true;
-        else if(left==null && right!=null) return false;
-        else if(left!=null && right==null) return false;
-        
-        return (left.val==right.val) && isSameTree(left.left,right.right) && isSameTree(left.right, right.left);
-    }
-    public boolean isSymmetric(TreeNode root) {
-        if(root==null){
+    private boolean isSymmetric(TreeNode left, TreeNode right) {
+        if (left == null && right == null) {
             return true;
         }
-        return isSameTree(root.left, root.right);
+        if (left == null && right != null) {
+            return false;
+        }
+        if (left != null && right == null) {
+            return false;
+        }
+        if (left.val != right.val) {
+            return false;
+        }
+        if (left.val == right.val) {
+            boolean isEqualRight = this.isSymmetric(left.right, right.left);
+            boolean isEqualLeft = this.isSymmetric(left.left, right.right);
+            return (isEqualRight && isEqualLeft);
+        }
+        return false;
+    }
+    public boolean isSymmetric(TreeNode root) {
+        if (root == null) {
+            return true;
+        }
+        return this.isSymmetric(root.left, root.right);
     }
 }
