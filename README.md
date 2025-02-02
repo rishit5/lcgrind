@@ -17,6 +17,7 @@ Some solutions are good, some are okay
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
@@ -39,6 +40,7 @@ Some solutions are good, some are okay
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
@@ -130,6 +132,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0065-valid-number](https://github.com/rishit5/lcgrind/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
+| [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 ## Simulation
 |  |
 | ------- |
