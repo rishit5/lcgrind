@@ -147,6 +147,7 @@ Some solutions are good, some are okay
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
@@ -170,10 +171,12 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Counting Sort
 |  |
 | ------- |
