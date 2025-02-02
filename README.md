@@ -141,6 +141,7 @@ Some solutions are good, some are okay
 | [0065-valid-number](https://github.com/rishit5/lcgrind/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -153,4 +154,16 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
