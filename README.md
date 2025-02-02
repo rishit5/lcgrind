@@ -151,6 +151,7 @@ Some solutions are good, some are okay
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
+| [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -171,6 +172,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
+| [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 ## Stack
