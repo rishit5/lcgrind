@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors">1713. Dot Product of Two Sparse Vectors</a></h2><h3>Medium</h3><hr><p>Given two sparse vectors, compute their dot product.</p>
+<h2><a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors">Dot Product of Two Sparse Vectors</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given two sparse vectors, compute their dot product.</p>
 
 <p>Implement class <code>SparseVector</code>:</p>
 
