@@ -41,6 +41,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
+| [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
 ## Randomized
 |  |
 | ------- |
@@ -132,4 +134,12 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
