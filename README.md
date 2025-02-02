@@ -5,6 +5,7 @@ Some solutions are good, some are okay
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
@@ -17,6 +18,7 @@ Some solutions are good, some are okay
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
@@ -81,6 +83,7 @@ Some solutions are good, some are okay
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -90,6 +93,7 @@ Some solutions are good, some are okay
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
