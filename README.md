@@ -141,6 +141,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0065-valid-number](https://github.com/rishit5/lcgrind/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
@@ -160,6 +161,7 @@ Some solutions are good, some are okay
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 ## Stack
