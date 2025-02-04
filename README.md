@@ -179,6 +179,7 @@ Some solutions are good, some are okay
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rishit5/lcgrind/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
@@ -219,4 +220,8 @@ Some solutions are good, some are okay
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rishit5/lcgrind/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
