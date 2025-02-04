@@ -43,6 +43,7 @@ Some solutions are good, some are okay
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rishit5/lcgrind/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishit5/lcgrind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/rishit5/lcgrind/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishit5/lcgrind/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/rishit5/lcgrind/tree/master/3429-special-array-i) |
 ## Hash Table
