@@ -97,6 +97,7 @@ Some solutions are good, some are okay
 | [0046-permutations](https://github.com/rishit5/lcgrind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
 | [0254-factor-combinations](https://github.com/rishit5/lcgrind/tree/master/0254-factor-combinations) |
+| [0865-robot-room-cleaner](https://github.com/rishit5/lcgrind/tree/master/0865-robot-room-cleaner) |
 ## Tree
 |  |
 | ------- |
@@ -203,4 +204,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Interactive
+|  |
+| ------- |
+| [0865-robot-room-cleaner](https://github.com/rishit5/lcgrind/tree/master/0865-robot-room-cleaner) |
 <!---LeetCode Topics End-->
