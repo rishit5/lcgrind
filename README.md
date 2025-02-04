@@ -37,6 +37,7 @@ Some solutions are good, some are okay
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishit5/lcgrind/tree/master/0724-find-pivot-index) |
@@ -191,4 +192,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
