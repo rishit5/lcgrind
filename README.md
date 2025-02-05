@@ -163,6 +163,7 @@ Some solutions are good, some are okay
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rishit5/lcgrind/tree/master/0050-powx-n) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
 ## Design
@@ -242,5 +243,6 @@ Some solutions are good, some are okay
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rishit5/lcgrind/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/rishit5/lcgrind/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
