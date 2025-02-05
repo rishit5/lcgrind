@@ -15,7 +15,7 @@ class Solution {
         List<Integer> result = new LinkedList<>();
         int l = left - 1;
         int r = left;
-        System.out.println(left);
+        // System.out.println(left);
         while (k-- > 0) {
             if (l >= 0 && r < arr.length) {
                 if (Math.abs(x - arr[l]) <= Math.abs(x - arr[r])) {
