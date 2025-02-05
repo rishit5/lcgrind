@@ -3,9 +3,6 @@ class Solution {
         if (s1.length() != s2.length()) {
             return false;
         }
-        // if (s1.equals(s2)) {
-        //     return true;
-        // }
         int i1 = 0, i2 = 0;
         int counter = 0;
         for (int i = 0; i < s1.length(); i++) {
@@ -16,7 +13,7 @@ class Solution {
                 counter += 1;
             }
         }
-        System.out.println(i1 + " " + i2 + " " + counter);
+        // System.out.println(i1 + " " + i2 + " " + counter);
         if (counter == s1.length()) {
             return true;
         }
