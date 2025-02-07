@@ -1,19 +1,28 @@
 class Solution {
-    private double result(double x, long n) {
+    private double calcPow(double x, long n) {
+        // System.out.println(n);
         if (n == 0) {
             return 1;
         }
-        if (n > 0) {
-            if (n % 2 == 0) {
-                return result(x * x, n/2);
-            } else {
-                return x * result(x * x, (n - 1) / 2);
-            }
+        // x^n -> n is even -> (x^2)^n/2
+        if (n % 2 == 0) {
+            return calcPow(x * x, n / 2);
         } else {
-            return 1.0 / result(x, -1 * n);
+            return x * calcPow(x*x, (n - 1)/2);
         }
     }
+
     public double myPow(double x, int n) {
-        return this.result(x, (long) n);
+        if (x == 1) {
+            return 1;
+        }
+        if (n < 0) {
+            long res = -1 * (long) n;
+            // System.out.println(res);
+            // return 0.0;
+            return 1 / calcPow(x, res);
+        } else {
+            return calcPow(x, (long) n);
+        }
     }
 }
