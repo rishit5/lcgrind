@@ -13,27 +13,27 @@ class Solution {
         put('9', new char[]{'w', 'x', 'y', 'z'});
     }};
 
-    private void recursive(String digits, int i, String runString) {
+    private void recursive(String digits, int i, char[] charArray) {
         if (i == digits.length()) {
-            if (runString.equals("")) {
-                return;
-            }
-            results.addLast(new String(runString));
+            results.addLast(new String(charArray));
             return;
         }
         Character currentCharacter = digits.charAt(i);
         char[] chars = charMap.get(currentCharacter);
         for (int j = 0; j < chars.length; j++) {
-            runString += chars[j];
-            recursive(digits, i+1, runString);
-            runString = runString.substring(0, runString.length() - 1);
+            charArray[i] = chars[j];
+            recursive(digits, i+1, charArray);
         }
     }
 
 
     public List<String> letterCombinations(String digits) {
+        if (digits.length() == 0) {
+            return new LinkedList<>();
+        }
         results = new LinkedList<>();
-        this.recursive(digits, 0, "");
+        char[] charArray = new char[digits.length()];
+        this.recursive(digits, 0, charArray);
         return results;
     }
 }
