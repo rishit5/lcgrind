@@ -60,6 +60,7 @@ Some solutions are good, some are okay
 | [1927-maximum-ascending-subarray-sum](https://github.com/rishit5/lcgrind/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishit5/lcgrind/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/rishit5/lcgrind/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishit5/lcgrind/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Some solutions are good, some are okay
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishit5/lcgrind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishit5/lcgrind/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishit5/lcgrind/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
 | ------- |
