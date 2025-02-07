@@ -1,5 +1,6 @@
 class Solution {
     private double calcPow(double x, long n) {
+        // System.out.println(n);
         if (n == 0) {
             return 1;
         }
@@ -16,7 +17,10 @@ class Solution {
             return 1;
         }
         if (n < 0) {
-            return 1 / calcPow(x, n * -1);
+            long res = -1 * (long) n;
+            // System.out.println(res);
+            // return 0.0;
+            return 1 / calcPow(x, res);
         } else {
             return calcPow(x, (long) n);
         }
