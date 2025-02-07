@@ -93,6 +93,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/rishit5/lcgrind/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
@@ -179,6 +180,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0050-powx-n](https://github.com/rishit5/lcgrind/tree/master/0050-powx-n) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
+| [0367-valid-perfect-square](https://github.com/rishit5/lcgrind/tree/master/0367-valid-perfect-square) |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
 | [0903-implement-rand10-using-rand7](https://github.com/rishit5/lcgrind/tree/master/0903-implement-rand10-using-rand7) |
 ## Design
