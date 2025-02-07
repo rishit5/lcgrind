@@ -67,6 +67,7 @@ Some solutions are good, some are okay
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rishit5/lcgrind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ Some solutions are good, some are okay
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rishit5/lcgrind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/rishit5/lcgrind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rishit5/lcgrind/tree/master/0046-permutations) |
@@ -197,6 +199,7 @@ Some solutions are good, some are okay
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rishit5/lcgrind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0065-valid-number](https://github.com/rishit5/lcgrind/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
