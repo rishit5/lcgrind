@@ -31,6 +31,7 @@ Some solutions are good, some are okay
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
+| [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 ## Array
@@ -52,6 +53,7 @@ Some solutions are good, some are okay
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
+| [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/rishit5/lcgrind/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
 | [0636-exclusive-time-of-functions](https://github.com/rishit5/lcgrind/tree/master/0636-exclusive-time-of-functions) |
@@ -245,6 +247,7 @@ Some solutions are good, some are okay
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -308,4 +311,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
