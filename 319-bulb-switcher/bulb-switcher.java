@@ -6,6 +6,8 @@ class Solution {
             long res = (long) i * (long) i;
             if (res <= nLong) {
                 count += 1;
+            } else {
+                break;
             }
         }
         return count;
