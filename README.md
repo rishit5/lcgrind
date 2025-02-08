@@ -43,6 +43,7 @@ Some solutions are good, some are okay
 | [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/rishit5/lcgrind/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
+| [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
@@ -72,6 +73,7 @@ Some solutions are good, some are okay
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishit5/lcgrind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
@@ -212,6 +214,7 @@ Some solutions are good, some are okay
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
@@ -238,6 +241,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishit5/lcgrind/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
@@ -296,4 +300,12 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/rishit5/lcgrind/tree/master/2434-design-a-number-container-system) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
