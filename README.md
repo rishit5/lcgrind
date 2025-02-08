@@ -189,6 +189,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rishit5/lcgrind/tree/master/0050-powx-n) |
+| [0319-bulb-switcher](https://github.com/rishit5/lcgrind/tree/master/0319-bulb-switcher) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
 | [0367-valid-perfect-square](https://github.com/rishit5/lcgrind/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
@@ -315,4 +316,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/rishit5/lcgrind/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
