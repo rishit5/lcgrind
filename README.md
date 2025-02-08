@@ -44,6 +44,7 @@ Some solutions are good, some are okay
 | [0053-maximum-subarray](https://github.com/rishit5/lcgrind/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
+| [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
@@ -238,6 +239,7 @@ Some solutions are good, some are okay
 | [0053-maximum-subarray](https://github.com/rishit5/lcgrind/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
+| [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
