@@ -48,6 +48,7 @@ Some solutions are good, some are okay
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
@@ -115,6 +116,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
@@ -125,6 +127,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rishit5/lcgrind/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
 ## Graph
 |  |
 | ------- |
@@ -279,6 +282,7 @@ Some solutions are good, some are okay
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
@@ -325,4 +329,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/rishit5/lcgrind/tree/master/0319-bulb-switcher) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
