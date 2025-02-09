@@ -110,6 +110,7 @@ Some solutions are good, some are okay
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
