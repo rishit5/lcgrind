@@ -1,33 +1,26 @@
 class Solution {
-    HashSet<List<Integer>> res = new HashSet<>();
-    int[] candidates; 
-    int target;
+    private List<List<Integer>> result;
 
-    public void subset(int i, int sumSoFar, List<Integer> path) {
-        if (sumSoFar == target) {
-            res.add(new ArrayList<>(path));
+    private void backTrack(int[] candidates, int target, int curr, int sum, LinkedList<Integer> currRes) {
+        if (sum > target) {
             return;
         }
-
-        if (i >= candidates.length || sumSoFar > target) {
+        if (sum == target) {
+            result.add(new LinkedList<>(currRes));
             return;
         }
-
-        path.add(candidates[i]);
-        subset(i, sumSoFar + candidates[i], path);
-        path.remove(path.size() - 1);
-
-        subset(i + 1, sumSoFar, path);
+        currRes.addLast(candidates[curr]);
+        backTrack(candidates, target, curr, sum + candidates[curr], currRes);
+        currRes.removeLast();
+        if (curr < candidates.length - 1) {
+            backTrack(candidates, target, curr+1, sum, currRes);
+        }
     }
 
-
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<Integer> path = new ArrayList<>();
         Arrays.sort(candidates);
-        this.target = target;
-        this.candidates = candidates;
-
-        subset(0, 0, path);
-        return new ArrayList<>(res);
+        this.result = new LinkedList<>();
+        this.backTrack(candidates, target, 0, 0, new LinkedList<>());
+        return this.result;
     }
 }
