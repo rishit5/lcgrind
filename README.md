@@ -39,6 +39,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishit5/lcgrind/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishit5/lcgrind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/rishit5/lcgrind/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishit5/lcgrind/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rishit5/lcgrind/tree/master/0046-permutations) |
@@ -103,6 +104,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishit5/lcgrind/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishit5/lcgrind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rishit5/lcgrind/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
