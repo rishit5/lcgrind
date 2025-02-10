@@ -15,38 +15,52 @@
  *     public List<NestedInteger> getList();
  * }
  */
+import java.util.NoSuchElementException;
+
 public class NestedIterator implements Iterator<Integer> {
 
-    private LinkedList<Integer> flattenedList;
-    private Integer curr;
-
-    private void flatten(NestedInteger nestedInt) {
-        if (nestedInt.isInteger()) {
-            flattenedList.addLast(nestedInt.getInteger());
-            return;
-        }
-        for (NestedInteger nestedInteger : nestedInt.getList()) {
-            this.flatten(nestedInteger);
-        }
-    }
+    private Deque<List<NestedInteger>> stacklist;
+    private Deque<Integer> indexlist;
 
     public NestedIterator(List<NestedInteger> nestedList) {
-        this.flattenedList = new LinkedList<>();
-        for (NestedInteger nestedInt : nestedList) {
-            this.flatten(nestedInt);
-        }
-        this.curr = 0;
+        this.stacklist = new ArrayDeque<>();
+        this.indexlist = new ArrayDeque<>();
+        this.stacklist.addFirst(nestedList);
+        this.indexlist.addFirst(0);
     }
 
     @Override
     public Integer next() {
-        this.curr += 1;
-        return this.flattenedList.get(this.curr - 1);
+        if (!hasNext()) {
+            throw new NoSuchElementException();
+        }
+        int top = this.indexlist.pollFirst();
+        this.indexlist.addFirst(top + 1);
+        return this.stacklist.peekFirst().get(top).getInteger();
     }
 
     @Override
     public boolean hasNext() {
-        return this.curr != this.flattenedList.size();
+        makeTopAnInteger();
+        return !indexlist.isEmpty();
+    }
+
+    private void makeTopAnInteger() {
+        while (!indexlist.isEmpty()) {
+            if (indexlist.peekFirst() >= stacklist.peekFirst().size()) {
+                indexlist.pollFirst();
+                stacklist.pollFirst();
+                continue;
+            }
+
+            if (stacklist.peekFirst().get(indexlist.peekFirst()).isInteger()) {
+                break;
+            }
+
+            stacklist.addFirst(stacklist.peekFirst().get(indexlist.peekFirst()).getList());
+            indexlist.addFirst(indexlist.pollFirst() + 1);
+            indexlist.addFirst(0);
+        }
     }
 }
 
