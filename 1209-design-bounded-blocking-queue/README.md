@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-bounded-blocking-queue">1209. Design Bounded Blocking Queue</a></h2><h3>Medium</h3><hr><p>Implement a thread-safe bounded blocking queue that has the following methods:</p>
+<h2><a href="https://leetcode.com/problems/design-bounded-blocking-queue">Design Bounded Blocking Queue</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Implement a thread-safe bounded blocking queue that has the following methods:</p>
 
 <ul>
 	<li><code>BoundedBlockingQueue(int capacity)</code> The constructor initializes the queue with a maximum <code>capacity</code>.</li>
