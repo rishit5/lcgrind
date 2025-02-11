@@ -18,6 +18,7 @@ Some solutions are good, some are okay
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -33,6 +34,7 @@ Some solutions are good, some are okay
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 ## Array
@@ -62,6 +64,7 @@ Some solutions are good, some are okay
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
 | [0636-exclusive-time-of-functions](https://github.com/rishit5/lcgrind/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishit5/lcgrind/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/rishit5/lcgrind/tree/master/0907-koko-eating-bananas) |
@@ -306,6 +309,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 ## Recursion
 |  |
@@ -336,6 +340,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 ## Brainteaser
 |  |
 | ------- |
