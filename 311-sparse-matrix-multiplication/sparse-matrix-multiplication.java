@@ -27,8 +27,8 @@ class Solution {
             }
         }
 
-        System.out.println(mapMat1);
-        System.out.println(mapMat2);
+        // System.out.println(mapMat1);
+        // System.out.println(mapMat2);
 
         for (int i = 0; i < mat1.length; i++) {
             for (int j = 0; j < mat2[0].length; j++) {
