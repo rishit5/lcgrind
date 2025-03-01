@@ -1,9 +1,9 @@
 class TwoSum {
 
-    private TreeMap<Integer, Integer> treeMap;
+    private HashMap<Integer, Integer> treeMap;
 
     public TwoSum() {
-        this.treeMap = new TreeMap<>();
+        this.treeMap = new HashMap<>();
     }
     
     public void add(int number) {
