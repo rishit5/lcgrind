@@ -12,7 +12,6 @@ class TwoSum {
     }
     
     public boolean find(int value) {
-        System.out.println("Value is " + value);
         for (Integer key : this.treeMap.keySet()) {
             this.treeMap.put(key, this.treeMap.get(key) - 1);
             if (this.treeMap.containsKey(value - key) && this.treeMap.get(value - key) > 0) {
