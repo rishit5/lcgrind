@@ -51,6 +51,7 @@ Some solutions are good, some are okay
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
@@ -86,6 +87,7 @@ Some solutions are good, some are okay
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0311-sparse-matrix-multiplication](https://github.com/rishit5/lcgrind/tree/master/0311-sparse-matrix-multiplication) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
@@ -101,6 +103,7 @@ Some solutions are good, some are okay
 ## Two Pointers
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
@@ -219,6 +222,7 @@ Some solutions are good, some are okay
 ## Design
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
@@ -364,4 +368,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [1209-design-bounded-blocking-queue](https://github.com/rishit5/lcgrind/tree/master/1209-design-bounded-blocking-queue) |
+## Data Stream
+|  |
+| ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 <!---LeetCode Topics End-->
