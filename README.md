@@ -376,4 +376,8 @@ Some solutions are good, some are okay
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0346-moving-average-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0346-moving-average-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/rishit5/lcgrind/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
