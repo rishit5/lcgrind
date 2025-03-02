@@ -43,12 +43,12 @@ class Solution {
         int components = n;
         for (int i = 0; i < connections.length; i++) {
             int ret = uf.union(connections[i][0], connections[i][1]);
-            System.out.println("Ret is " + ret + " " + uf.find(connections[i][0]) + " " + uf.find(connections[i][1]));
+            // System.out.println("Ret is " + ret + " " + uf.find(connections[i][0]) + " " + uf.find(connections[i][1]));
             extraConnections += ret;
             components -= (1 - ret);
         }
-        System.out.println("Extra connections are " + extraConnections);
-        System.out.println("Extra components are " + components);
+        // System.out.println("Extra connections are " + extraConnections);
+        // System.out.println("Extra components are " + components);
         if (extraConnections >= (components - 1)) {
             return components - 1;
         } else {
