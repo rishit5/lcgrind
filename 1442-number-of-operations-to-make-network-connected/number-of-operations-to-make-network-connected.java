@@ -13,10 +13,10 @@ class Solution {
         }
 
         public int find(int x) {
-            if (this.parents[x] == x) {
-                return x;
+            if (this.parents[x] != x) {
+                this.parents[x] = this.find(this.parents[x]);
             }
-            return this.find(this.parents[x]);
+            return this.parents[x];
         }
 
         public int union(int x, int y) {
@@ -25,9 +25,10 @@ class Solution {
             if (parentX == parentY) {
                 return 1;
             } else {
-                if (this.rank[x] >= this.rank[y]) {
-                    this.rank[parentX] += 1;
+                if (this.rank[x] > this.rank[y]) {
                     this.parents[parentY] = parentX;
+                } else if (this.rank[y] > this.rank[x]) {
+                    this.parents[parentX] = parentY;
                 } else {
                     this.rank[parentY] += 1;
                     this.parents[parentX] = parentY;
@@ -43,12 +44,9 @@ class Solution {
         int components = n;
         for (int i = 0; i < connections.length; i++) {
             int ret = uf.union(connections[i][0], connections[i][1]);
-            // System.out.println("Ret is " + ret + " " + uf.find(connections[i][0]) + " " + uf.find(connections[i][1]));
             extraConnections += ret;
             components -= (1 - ret);
         }
-        // System.out.println("Extra connections are " + extraConnections);
-        // System.out.println("Extra components are " + components);
         if (extraConnections >= (components - 1)) {
             return components - 1;
         } else {
