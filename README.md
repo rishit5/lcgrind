@@ -21,6 +21,7 @@ Some solutions are good, some are okay
 | [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -37,6 +38,7 @@ Some solutions are good, some are okay
 | [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Some solutions are good, some are okay
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Backtracking
 |  |
 | ------- |
@@ -319,6 +322,7 @@ Some solutions are good, some are okay
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Recursion
 |  |
 | ------- |
