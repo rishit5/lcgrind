@@ -8,11 +8,8 @@ class Solution {
                     if (j - price[i] >= 0) {
                         dp[j][k] = Math.max(dp[j][k], dp[j - price[i]][k] + tastiness[i]);
                     }
-                    if (k > 0) {
-                        int couponCost = price[i] / 2;
-                        if (j >= couponCost) {
-                            dp[j][k] = Math.max(dp[j][k], dp[j - couponCost][k - 1] + tastiness[i]);
-                        }
+                    if (k > 0 && j - (price[i] / 2) >= 0) {
+                        dp[j][k] = Math.max(dp[j][k], dp[j - (price[i] / 2)][k-1] + tastiness[i]);
                     }
                     result = Math.max(result, dp[j][k]);
                 }
