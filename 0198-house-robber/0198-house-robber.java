@@ -1,17 +1,17 @@
 class Solution {
     public int rob(int[] nums) {
-        int[] dps = new int[nums.length];
-
-        dps[0] = nums[0];
-
-        if (nums.length >= 2) {
-            dps[1] = Math.max(dps[0], nums[1]);
+        int[] dp = new int[nums.length];
+        int result = Integer.MIN_VALUE;
+        for (int i = 0; i < nums.length; i++) {
+            if (i - 2 >= 0) {
+                dp[i] = Math.max(dp[i-1], nums[i] + dp[i-2]);
+            } else if (i - 1 >= 0) {
+                dp[i] = Math.max(dp[i-1], nums[i]);
+            } else {
+                dp[i] = nums[i];
+            }
+            result = Math.max(result, dp[i]);
         }
-
-        for (int i = 2; i < nums.length; i++) {
-            dps[i] = Math.max(dps[i-1], dps[i-2] + nums[i]);
-        }
-
-        return dps[nums.length - 1];
+        return result;
     }
 }
