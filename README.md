@@ -15,6 +15,7 @@ Some solutions are good, some are okay
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -174,6 +175,7 @@ Some solutions are good, some are okay
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
@@ -188,6 +190,7 @@ Some solutions are good, some are okay
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -283,6 +286,7 @@ Some solutions are good, some are okay
 | [0198-house-robber](https://github.com/rishit5/lcgrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishit5/lcgrind/tree/master/0213-house-robber-ii) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
+| [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
