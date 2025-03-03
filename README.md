@@ -82,6 +82,7 @@ Some solutions are good, some are okay
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishit5/lcgrind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rishit5/lcgrind/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2690-house-robber-iv](https://github.com/rishit5/lcgrind/tree/master/2690-house-robber-iv) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/rishit5/lcgrind/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishit5/lcgrind/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -293,6 +294,7 @@ Some solutions are good, some are okay
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
+| [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 ## Stack
 |  |
 | ------- |
