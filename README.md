@@ -51,6 +51,7 @@ Some solutions are good, some are okay
 | [0046-permutations](https://github.com/rishit5/lcgrind/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/rishit5/lcgrind/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/rishit5/lcgrind/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
