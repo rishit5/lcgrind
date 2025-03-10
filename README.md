@@ -403,5 +403,6 @@ Some solutions are good, some are okay
 ## Database
 |  |
 | ------- |
+| [1204-new-users-daily-count](https://github.com/rishit5/lcgrind/tree/master/1204-new-users-daily-count) |
 | [1258-article-views-i](https://github.com/rishit5/lcgrind/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
