@@ -11,6 +11,7 @@ Some solutions are good, some are okay
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -243,6 +244,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
@@ -266,6 +268,7 @@ Some solutions are good, some are okay
 | [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
@@ -371,6 +374,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
