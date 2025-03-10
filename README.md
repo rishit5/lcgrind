@@ -112,6 +112,7 @@ Some solutions are good, some are okay
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
@@ -277,6 +278,7 @@ Some solutions are good, some are okay
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rishit5/lcgrind/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
@@ -302,6 +304,7 @@ Some solutions are good, some are okay
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0636-exclusive-time-of-functions](https://github.com/rishit5/lcgrind/tree/master/0636-exclusive-time-of-functions) |
@@ -343,6 +346,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rishit5/lcgrind/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rishit5/lcgrind/tree/master/0206-reverse-linked-list) |
 ## Rejection Sampling
 |  |
