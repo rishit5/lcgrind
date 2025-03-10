@@ -416,4 +416,5 @@ Some solutions are good, some are okay
 | ------- |
 | [1204-new-users-daily-count](https://github.com/rishit5/lcgrind/tree/master/1204-new-users-daily-count) |
 | [1258-article-views-i](https://github.com/rishit5/lcgrind/tree/master/1258-article-views-i) |
+| [1259-article-views-ii](https://github.com/rishit5/lcgrind/tree/master/1259-article-views-ii) |
 <!---LeetCode Topics End-->
