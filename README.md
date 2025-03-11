@@ -59,6 +59,7 @@ Some solutions are good, some are okay
 | [0057-insert-interval](https://github.com/rishit5/lcgrind/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/rishit5/lcgrind/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/rishit5/lcgrind/tree/master/0152-maximum-product-subarray) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0198-house-robber](https://github.com/rishit5/lcgrind/tree/master/0198-house-robber) |
@@ -103,6 +104,7 @@ Some solutions are good, some are okay
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/rishit5/lcgrind/tree/master/0149-max-points-on-a-line) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0311-sparse-matrix-multiplication](https://github.com/rishit5/lcgrind/tree/master/0311-sparse-matrix-multiplication) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
@@ -240,6 +242,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rishit5/lcgrind/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/rishit5/lcgrind/tree/master/0149-max-points-on-a-line) |
 | [0319-bulb-switcher](https://github.com/rishit5/lcgrind/tree/master/0319-bulb-switcher) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
 | [0367-valid-perfect-square](https://github.com/rishit5/lcgrind/tree/master/0367-valid-perfect-square) |
@@ -446,4 +449,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rishit5/lcgrind/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
