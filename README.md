@@ -62,6 +62,7 @@ Some solutions are good, some are okay
 | [0198-house-robber](https://github.com/rishit5/lcgrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishit5/lcgrind/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0245-shortest-word-distance-iii](https://github.com/rishit5/lcgrind/tree/master/0245-shortest-word-distance-iii) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
 | [0311-sparse-matrix-multiplication](https://github.com/rishit5/lcgrind/tree/master/0311-sparse-matrix-multiplication) |
@@ -269,6 +270,7 @@ Some solutions are good, some are okay
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0245-shortest-word-distance-iii](https://github.com/rishit5/lcgrind/tree/master/0245-shortest-word-distance-iii) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
