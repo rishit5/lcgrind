@@ -241,6 +241,7 @@ Some solutions are good, some are okay
 | [0367-valid-perfect-square](https://github.com/rishit5/lcgrind/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
+| [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
 | [0903-implement-rand10-using-rand7](https://github.com/rishit5/lcgrind/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
 | [1119-robot-bounded-in-circle](https://github.com/rishit5/lcgrind/tree/master/1119-robot-bounded-in-circle) |
@@ -311,6 +312,7 @@ Some solutions are good, some are okay
 | [0213-house-robber-ii](https://github.com/rishit5/lcgrind/tree/master/0213-house-robber-ii) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
+| [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
@@ -387,6 +389,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+| [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
 ## Matrix
 |  |
 | ------- |
@@ -425,4 +428,16 @@ Some solutions are good, some are okay
 | [1204-new-users-daily-count](https://github.com/rishit5/lcgrind/tree/master/1204-new-users-daily-count) |
 | [1258-article-views-i](https://github.com/rishit5/lcgrind/tree/master/1258-article-views-i) |
 | [1259-article-views-ii](https://github.com/rishit5/lcgrind/tree/master/1259-article-views-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
