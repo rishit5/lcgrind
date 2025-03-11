@@ -15,6 +15,7 @@ Some solutions are good, some are okay
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
@@ -35,6 +36,7 @@ Some solutions are good, some are okay
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/rishit5/lcgrind/tree/master/0339-nested-list-weight-sum) |
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
@@ -187,6 +189,7 @@ Some solutions are good, some are okay
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/rishit5/lcgrind/tree/master/0450-delete-node-in-a-bst) |
@@ -203,6 +206,7 @@ Some solutions are good, some are okay
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/rishit5/lcgrind/tree/master/0450-delete-node-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -250,6 +254,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
@@ -275,6 +280,7 @@ Some solutions are good, some are okay
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0245-shortest-word-distance-iii](https://github.com/rishit5/lcgrind/tree/master/0245-shortest-word-distance-iii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/rishit5/lcgrind/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
