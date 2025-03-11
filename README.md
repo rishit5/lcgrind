@@ -189,6 +189,7 @@ Some solutions are good, some are okay
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/rishit5/lcgrind/tree/master/0450-delete-node-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -203,6 +204,7 @@ Some solutions are good, some are okay
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0337-house-robber-iii](https://github.com/rishit5/lcgrind/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/rishit5/lcgrind/tree/master/0450-delete-node-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -212,6 +214,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/rishit5/lcgrind/tree/master/0450-delete-node-in-a-bst) |
 ## Sliding Window
 |  |
 | ------- |
