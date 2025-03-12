@@ -86,6 +86,7 @@ Some solutions are good, some are okay
 | [0724-find-pivot-index](https://github.com/rishit5/lcgrind/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/rishit5/lcgrind/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/rishit5/lcgrind/tree/master/1364-tuple-with-same-product) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rishit5/lcgrind/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -146,6 +147,7 @@ Some solutions are good, some are okay
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/rishit5/lcgrind/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2690-house-robber-iv](https://github.com/rishit5/lcgrind/tree/master/2690-house-robber-iv) |
 ## Sorting
@@ -159,6 +161,7 @@ Some solutions are good, some are okay
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -328,6 +331,7 @@ Some solutions are good, some are okay
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 ## Stack
 |  |
