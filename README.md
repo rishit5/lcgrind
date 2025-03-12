@@ -24,6 +24,7 @@ Some solutions are good, some are okay
 | [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -43,6 +44,7 @@ Some solutions are good, some are okay
 | [0695-max-area-of-island](https://github.com/rishit5/lcgrind/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Array
@@ -203,6 +205,7 @@ Some solutions are good, some are okay
 | [0450-delete-node-in-a-bst](https://github.com/rishit5/lcgrind/tree/master/0450-delete-node-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
@@ -294,6 +297,7 @@ Some solutions are good, some are okay
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/rishit5/lcgrind/tree/master/0961-long-pressed-name) |
