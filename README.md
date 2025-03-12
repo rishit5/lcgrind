@@ -94,6 +94,7 @@ Some solutions are good, some are okay
 | [1927-maximum-ascending-subarray-sum](https://github.com/rishit5/lcgrind/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
+| [2642-time-to-cross-a-bridge](https://github.com/rishit5/lcgrind/tree/master/2642-time-to-cross-a-bridge) |
 | [2690-house-robber-iv](https://github.com/rishit5/lcgrind/tree/master/2690-house-robber-iv) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/rishit5/lcgrind/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishit5/lcgrind/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -304,6 +305,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [1119-robot-bounded-in-circle](https://github.com/rishit5/lcgrind/tree/master/1119-robot-bounded-in-circle) |
+| [2642-time-to-cross-a-bridge](https://github.com/rishit5/lcgrind/tree/master/2642-time-to-cross-a-bridge) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishit5/lcgrind/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
@@ -364,6 +366,7 @@ Some solutions are good, some are okay
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
 | [2434-design-a-number-container-system](https://github.com/rishit5/lcgrind/tree/master/2434-design-a-number-container-system) |
+| [2642-time-to-cross-a-bridge](https://github.com/rishit5/lcgrind/tree/master/2642-time-to-cross-a-bridge) |
 ## Interactive
 |  |
 | ------- |
