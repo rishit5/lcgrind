@@ -1,15 +1,18 @@
 class Solution {
+
+
     private int[] max(int[] a, int[] b, int[] c) {
-        // Compare a vs. b
-        int[] maxPair = (a[0] > b[0] || (a[0] == b[0] && a[1] > b[1])) ? a : b;
-        
-        // Compare the winner with c
-        maxPair = (maxPair[0] > c[0] || (maxPair[0] == c[0] && maxPair[1] > c[1])) ? maxPair : c;
-        
-        return maxPair;
+        // Compare first elements
+        if (a[0] > b[0] || (a[0] == b[0] && a[1] > b[1])) {
+            if (a[0] > c[0] || (a[0] == c[0] && a[1] > c[1])) {
+                return a; // a is the largest
+            }
+        }
+        if (b[0] > c[0] || (b[0] == c[0] && b[1] > c[1])) {
+            return b; // b is the largest
+        }
+        return c; // c is the largest
     }
-
-
 
     public long maxSubarrays(int n, int[][] conflictingPairs) {
         List<List<Integer>> right = new ArrayList<>();
