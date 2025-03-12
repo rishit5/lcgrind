@@ -1,68 +1,57 @@
 class Solution {
-    // maximum number of jobs are 50000
-    int[] memo = new int[50001];
-    
-    private int findNextJob(int[] startTime, int lastEndingTime) {
-        int start = 0, end = startTime.length - 1, nextIndex = startTime.length;
-        
+
+    private int[] dp = new int[50001];
+
+    private int findNextIndex(int[] startTime, int curr) {
+        int start = 0;
+        int end = startTime.length - 1;
+        int nextIndex = startTime.length;
+
         while (start <= end) {
-            int mid = (start + end) / 2;
-            if (startTime[mid] >= lastEndingTime) {
+            int mid = start + ((end - start) / 2);
+            if (startTime[mid] >= curr) {
                 nextIndex = mid;
                 end = mid - 1;
             } else {
                 start = mid + 1;
             }
         }
+
         return nextIndex;
     }
-    
-    private int findMaxProfit(List<List<Integer>> jobs, int[] startTime, int n, int position) {
-        // 0 profit if we have already iterated over all the jobs
-        if (position == n) {
+
+    private int findMax(List<List<Integer>> jobs, int[] startTime, int curr) {
+        if (curr == jobs.size()) {
             return 0;
         }
-        
-        // return result directly if it's calculated 
-        if (memo[position] != -1) {
-            return memo[position];
+        if (dp[curr] != -1) {
+            return dp[curr];
         }
+        int nextIndex = findNextIndex(startTime, jobs.get(curr).get(1));
+
+        int maxProfit = Math.max(findMax(jobs, startTime, curr+1), 
+                        jobs.get(curr).get(2) + findMax(jobs, startTime, nextIndex));
         
-        // nextIndex is the index of next non-conflicting job
-        int nextIndex = findNextJob(startTime, jobs.get(position).get(1));
-        
-        // find the maximum profit of our two options: skipping or scheduling the current job
-        int maxProfit = Math.max(findMaxProfit(jobs, startTime, n, position + 1), 
-                        jobs.get(position).get(2) + findMaxProfit(jobs, startTime, n, nextIndex));
-        
-        // return maximum profit and also store it for future reference (memoization)
-        return memo[position] = maxProfit;
+        dp[curr] = maxProfit;
+
+        return maxProfit;
     }
-    
+
     public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
         List<List<Integer>> jobs = new ArrayList<>();
-        
-        // marking all values to -1 so that we can differentiate 
-        // if we have already calculated the answer or not
-        Arrays.fill(memo, -1);
-        
-        // storing job's details into one list 
-        // this will help in sorting the jobs while maintaining the other parameters
-        int length = profit.length;
-        for (int i = 0; i < length; i++) {
-            ArrayList<Integer> currJob = new ArrayList<>();
-            currJob.add(startTime[i]);
-            currJob.add(endTime[i]);
-            currJob.add(profit[i]);
-            jobs.add(currJob);
+        Arrays.fill(dp, -1);
+        for (int i = 0; i < profit.length; i++) {
+            List<Integer> currList = new ArrayList<>();
+            currList.add(startTime[i]);
+            currList.add(endTime[i]);
+            currList.add(profit[i]);
+            jobs.add(currList);
         }
         jobs.sort(Comparator.comparingInt(a -> a.get(0)));
-        
-        // binary search will be used in startTime so store it as separate list
-        for (int i = 0; i < length; i++) {
+
+        for (int i = 0; i < jobs.size(); i++) {
             startTime[i] = jobs.get(i).get(0);
         }
-        
-        return findMaxProfit(jobs, startTime, length, 0);
+        return findMax(jobs, startTime, 0);
     }
 }
