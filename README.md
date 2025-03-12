@@ -102,6 +102,7 @@ Some solutions are good, some are okay
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishit5/lcgrind/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/rishit5/lcgrind/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishit5/lcgrind/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/rishit5/lcgrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Some solutions are good, some are okay
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishit5/lcgrind/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/rishit5/lcgrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Topological Sort
 |  |
 | ------- |
@@ -467,4 +469,12 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/rishit5/lcgrind/tree/master/0149-max-points-on-a-line) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/rishit5/lcgrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/rishit5/lcgrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
