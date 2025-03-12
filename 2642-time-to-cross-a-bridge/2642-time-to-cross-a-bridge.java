@@ -74,15 +74,15 @@ class Solution {
                 continue;
             }
             
-            // Process all events that have happened up to currentTime after the crossing
-            while (!events.isEmpty() && events.peek().time <= currentTime) {
-                Event e = events.poll();
-                if (e.side == 'R') {
-                    rightBank.offer(e.worker);
-                } else {
-                    leftBank.offer(e.worker);
-                }
-            }
+            // // Process all events that have happened up to currentTime after the crossing
+            // while (!events.isEmpty() && events.peek().time <= currentTime) {
+            //     Event e = events.poll();
+            //     if (e.side == 'R') {
+            //         rightBank.offer(e.worker);
+            //     } else {
+            //         leftBank.offer(e.worker);
+            //     }
+            // }
         }
         
         return maxTime;
