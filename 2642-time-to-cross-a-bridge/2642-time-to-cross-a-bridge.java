@@ -1,112 +1,109 @@
-import java.util.*;
-
 class Solution {
+
+    class Worker {
+        
+        int right;
+        int pick;
+        int left;
+        int put;
+        int index;
+        
+        public Worker(int right, int pick, int left, int put, int index) {
+            this.right = right;
+            this.pick = pick;
+            this.left = left;
+            this.put = put;
+            this.index = index;
+        }
+
+    }
+
+    class Event {
+        
+        int time;
+        char nextSide;
+        Worker worker;
+
+        public Event(int time, char nextSide, Worker worker) {
+            this.time = time;
+            this.nextSide = nextSide;
+            this.worker = worker;
+        }
+
+    }
+
     public int findCrossingTime(int n, int k, int[][] time) {
-        // Max-heap for workers available on the left (sorted by efficiency)
         PriorityQueue<Worker> leftBank = new PriorityQueue<>((a, b) -> {
             int aEff = a.right + a.left;
             int bEff = b.right + b.left;
-            if (aEff != bEff) return bEff - aEff;
-            return b.index - a.index;
+            if (aEff == bEff) {
+                return b.index - a.index;
+            } else {
+                return bEff - aEff;
+            }
         });
-        // Max-heap for workers available on the right (sorted by efficiency)
+
         PriorityQueue<Worker> rightBank = new PriorityQueue<>((a, b) -> {
             int aEff = a.right + a.left;
             int bEff = b.right + b.left;
-            if (aEff != bEff) return bEff - aEff;
-            return b.index - a.index;
+            if (aEff == bEff) {
+                return b.index - a.index;
+            } else {
+                return bEff - aEff;
+            }
         });
-        
-        // Initialize all workers in the left bank
-        for (int i = 0; i < k; i++) {
-            leftBank.offer(new Worker(time[i][0], time[i][1], time[i][2], time[i][3], i));
+
+        for (int i = 0; i < time.length; i++) {
+            leftBank.add(new Worker(time[i][0], time[i][1], time[i][2], time[i][3], i));
         }
-        
-        // Event queue sorted by time, each event is when a worker becomes available on a side
+
         PriorityQueue<Event> events = new PriorityQueue<>(Comparator.comparingInt(e -> e.time));
         int currentTime = 0;
         int workersOnRight = 0;
+        int workersOnLeft  = k;
         int boxesRemaining = n;
-        int maxTime = 0;
-        
+        int maxTime = -1;
+
         while (boxesRemaining > 0) {
-            // Process all events that have happened up to currentTime
             while (!events.isEmpty() && events.peek().time <= currentTime) {
-                Event e = events.poll();
-                if (e.side == 'R') {
-                    rightBank.offer(e.worker);
+                Event event = events.poll();
+                if (event.nextSide == 'L') {
+                    leftBank.offer(event.worker);
                 } else {
-                    leftBank.offer(e.worker);
+                    rightBank.offer(event.worker);
                 }
             }
-            
-            boolean canCrossRight = !rightBank.isEmpty();
-            if (canCrossRight) {
-                // Worker crosses from right to left
+
+            boolean isWorkerRight = !rightBank.isEmpty();
+            if (isWorkerRight) {
                 Worker worker = rightBank.poll();
+                workersOnRight -= 1;
+                workersOnLeft += 1;
                 int crossTime = currentTime + worker.left;
-                maxTime = Math.max(maxTime, crossTime);
-                boxesRemaining--;
-                workersOnRight--;
-                // Schedule when the worker will be available on left after putting the box
+                maxTime = Math.max(crossTime, maxTime);
                 events.offer(new Event(crossTime + worker.put, 'L', worker));
+                boxesRemaining -= 1;
                 currentTime = crossTime;
-            } else if (boxesRemaining > workersOnRight && !leftBank.isEmpty()) {
-                // Worker crosses from left to right
+            } else if (workersOnRight < boxesRemaining && !leftBank.isEmpty()) {
                 Worker worker = leftBank.poll();
+                workersOnRight += 1;
+                workersOnLeft -= 1;
                 int crossTime = currentTime + worker.right;
-                workersOnRight++;
-                // Schedule when the worker will be available on right after picking the box
-                events.offer(new Event(crossTime + worker.pick, 'R', worker));
                 currentTime = crossTime;
+                events.offer(new Event(crossTime + worker.pick, 'R', worker));
             } else {
-                // No workers can cross now, jump to the next event time
-                if (events.isEmpty()) break; // Should not happen as boxesRemaining > 0
-                Event nextEvent = events.poll();
-                currentTime = nextEvent.time;
-                // Add the worker back to their respective bank
-                if (nextEvent.side == 'R') {
-                    rightBank.offer(nextEvent.worker);
+                if (events.isEmpty()) break;
+                Event event = events.poll();
+                currentTime = event.time;
+                if (event.nextSide == 'L') {
+                    leftBank.offer(event.worker);
                 } else {
-                    leftBank.offer(nextEvent.worker);
+                    rightBank.offer(event.worker);
                 }
-                // Reprocess the event
-                continue;
             }
-            
-            // // Process all events that have happened up to currentTime after the crossing
-            // while (!events.isEmpty() && events.peek().time <= currentTime) {
-            //     Event e = events.poll();
-            //     if (e.side == 'R') {
-            //         rightBank.offer(e.worker);
-            //     } else {
-            //         leftBank.offer(e.worker);
-            //     }
-            // }
+
         }
-        
+
         return maxTime;
-    }
-    
-    class Worker {
-        int right, pick, left, put, index;
-        Worker(int r, int p, int l, int put, int i) {
-            right = r;
-            pick = p;
-            left = l;
-            this.put = put;
-            index = i;
-        }
-    }
-    
-    class Event {
-        int time;
-        char side; // 'L' for left, 'R' for right
-        Worker worker;
-        Event(int t, char s, Worker w) {
-            time = t;
-            side = s;
-            worker = w;
-        }
     }
 }
