@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-deletions-to-make-array-divisible">2423. Minimum Deletions to Make Array Divisible</a></h2><h3>Hard</h3><hr><p>You are given two positive integer arrays <code>nums</code> and <code>numsDivide</code>. You can delete any number of elements from <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-deletions-to-make-array-divisible">Minimum Deletions to Make Array Divisible</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given two positive integer arrays <code>nums</code> and <code>numsDivide</code>. You can delete any number of elements from <code>nums</code>.</p>
 
 <p>Return <em>the <strong>minimum</strong> number of deletions such that the <strong>smallest</strong> element in </em><code>nums</code><em> <strong>divides</strong> all the elements of </em><code>numsDivide</code>. If this is not possible, return <code>-1</code>.</p>
 
