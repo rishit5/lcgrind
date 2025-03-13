@@ -347,6 +347,7 @@ Some solutions are good, some are okay
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rishit5/lcgrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 ## Stack
 |  |
@@ -421,6 +422,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rishit5/lcgrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -464,6 +466,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rishit5/lcgrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Game Theory
 |  |
 | ------- |
