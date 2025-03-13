@@ -283,6 +283,7 @@ Some solutions are good, some are okay
 | [0384-shuffle-an-array](https://github.com/rishit5/lcgrind/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [2357-count-integers-in-intervals](https://github.com/rishit5/lcgrind/tree/master/2357-count-integers-in-intervals) |
 | [2434-design-a-number-container-system](https://github.com/rishit5/lcgrind/tree/master/2434-design-a-number-container-system) |
 ## Randomized
 |  |
@@ -415,6 +416,7 @@ Some solutions are good, some are okay
 ## Ordered Set
 |  |
 | ------- |
+| [2357-count-integers-in-intervals](https://github.com/rishit5/lcgrind/tree/master/2357-count-integers-in-intervals) |
 | [2434-design-a-number-container-system](https://github.com/rishit5/lcgrind/tree/master/2434-design-a-number-container-system) |
 ## Trie
 |  |
@@ -486,6 +488,7 @@ Some solutions are good, some are okay
 ## Segment Tree
 |  |
 | ------- |
+| [2357-count-integers-in-intervals](https://github.com/rishit5/lcgrind/tree/master/2357-count-integers-in-intervals) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/rishit5/lcgrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Enumeration
 |  |
