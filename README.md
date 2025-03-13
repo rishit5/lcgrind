@@ -96,6 +96,7 @@ Some solutions are good, some are okay
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishit5/lcgrind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rishit5/lcgrind/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2642-time-to-cross-a-bridge](https://github.com/rishit5/lcgrind/tree/master/2642-time-to-cross-a-bridge) |
 | [2690-house-robber-iv](https://github.com/rishit5/lcgrind/tree/master/2690-house-robber-iv) |
@@ -168,6 +169,7 @@ Some solutions are good, some are okay
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,6 +270,7 @@ Some solutions are good, some are okay
 | [0903-implement-rand10-using-rand7](https://github.com/rishit5/lcgrind/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
 | [1119-robot-bounded-in-circle](https://github.com/rishit5/lcgrind/tree/master/1119-robot-bounded-in-circle) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Design
 |  |
 | ------- |
@@ -379,6 +382,7 @@ Some solutions are good, some are okay
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2434-design-a-number-container-system](https://github.com/rishit5/lcgrind/tree/master/2434-design-a-number-container-system) |
 | [2642-time-to-cross-a-bridge](https://github.com/rishit5/lcgrind/tree/master/2642-time-to-cross-a-bridge) |
 ## Interactive
@@ -487,4 +491,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/rishit5/lcgrind/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Number Theory
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
