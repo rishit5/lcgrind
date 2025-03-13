@@ -193,6 +193,7 @@ Some solutions are good, some are okay
 | [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
 | [0126-word-ladder-ii](https://github.com/rishit5/lcgrind/tree/master/0126-word-ladder-ii) |
 | [0254-factor-combinations](https://github.com/rishit5/lcgrind/tree/master/0254-factor-combinations) |
+| [0282-expression-add-operators](https://github.com/rishit5/lcgrind/tree/master/0282-expression-add-operators) |
 | [0865-robot-room-cleaner](https://github.com/rishit5/lcgrind/tree/master/0865-robot-room-cleaner) |
 ## Tree
 |  |
@@ -257,6 +258,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0050-powx-n](https://github.com/rishit5/lcgrind/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/rishit5/lcgrind/tree/master/0149-max-points-on-a-line) |
+| [0282-expression-add-operators](https://github.com/rishit5/lcgrind/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/rishit5/lcgrind/tree/master/0319-bulb-switcher) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
 | [0367-valid-perfect-square](https://github.com/rishit5/lcgrind/tree/master/0367-valid-perfect-square) |
@@ -298,6 +300,7 @@ Some solutions are good, some are okay
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0245-shortest-word-distance-iii](https://github.com/rishit5/lcgrind/tree/master/0245-shortest-word-distance-iii) |
+| [0282-expression-add-operators](https://github.com/rishit5/lcgrind/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/rishit5/lcgrind/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
