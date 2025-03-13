@@ -310,6 +310,7 @@ Some solutions are good, some are okay
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
+| [0730-count-different-palindromic-subsequences](https://github.com/rishit5/lcgrind/tree/master/0730-count-different-palindromic-subsequences) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -349,6 +350,7 @@ Some solutions are good, some are okay
 | [0516-longest-palindromic-subsequence](https://github.com/rishit5/lcgrind/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/rishit5/lcgrind/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
+| [0730-count-different-palindromic-subsequences](https://github.com/rishit5/lcgrind/tree/master/0730-count-different-palindromic-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rishit5/lcgrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
