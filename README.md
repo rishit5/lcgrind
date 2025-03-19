@@ -68,6 +68,7 @@ Some solutions are good, some are okay
 | [0198-house-robber](https://github.com/rishit5/lcgrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishit5/lcgrind/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/rishit5/lcgrind/tree/master/0238-product-of-array-except-self) |
 | [0245-shortest-word-distance-iii](https://github.com/rishit5/lcgrind/tree/master/0245-shortest-word-distance-iii) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
@@ -247,6 +248,7 @@ Some solutions are good, some are okay
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rishit5/lcgrind/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/rishit5/lcgrind/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishit5/lcgrind/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
