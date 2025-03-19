@@ -296,6 +296,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishit5/lcgrind/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/rishit5/lcgrind/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/rishit5/lcgrind/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/rishit5/lcgrind/tree/master/0072-edit-distance) |
@@ -358,6 +359,7 @@ Some solutions are good, some are okay
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishit5/lcgrind/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
