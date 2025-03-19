@@ -322,6 +322,7 @@ Some solutions are good, some are okay
 | [1119-robot-bounded-in-circle](https://github.com/rishit5/lcgrind/tree/master/1119-robot-bounded-in-circle) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishit5/lcgrind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rishit5/lcgrind/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Simulation
 |  |
 | ------- |
@@ -379,6 +380,7 @@ Some solutions are good, some are okay
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rishit5/lcgrind/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Counting Sort
 |  |
 | ------- |
