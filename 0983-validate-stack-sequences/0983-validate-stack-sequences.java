@@ -19,7 +19,7 @@ class Solution {
             stack.pop();
             j += 1;
         }
-        System.out.println(j);
+        // System.out.println(j);
         if (j == popped.length) {
             return true;
         } else {
