@@ -89,6 +89,7 @@ Some solutions are good, some are okay
 | [0724-find-pivot-index](https://github.com/rishit5/lcgrind/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/rishit5/lcgrind/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
+| [0983-validate-stack-sequences](https://github.com/rishit5/lcgrind/tree/master/0983-validate-stack-sequences) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/rishit5/lcgrind/tree/master/1364-tuple-with-same-product) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rishit5/lcgrind/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -323,6 +324,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/rishit5/lcgrind/tree/master/0068-text-justification) |
+| [0983-validate-stack-sequences](https://github.com/rishit5/lcgrind/tree/master/0983-validate-stack-sequences) |
 | [1119-robot-bounded-in-circle](https://github.com/rishit5/lcgrind/tree/master/1119-robot-bounded-in-circle) |
 | [2642-time-to-cross-a-bridge](https://github.com/rishit5/lcgrind/tree/master/2642-time-to-cross-a-bridge) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishit5/lcgrind/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -367,6 +369,7 @@ Some solutions are good, some are okay
 | [0636-exclusive-time-of-functions](https://github.com/rishit5/lcgrind/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/rishit5/lcgrind/tree/master/0983-validate-stack-sequences) |
 ## Greedy
 |  |
 | ------- |
