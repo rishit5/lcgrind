@@ -207,6 +207,7 @@ Some solutions are good, some are okay
 | [0100-same-tree](https://github.com/rishit5/lcgrind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
+| [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -226,6 +227,7 @@ Some solutions are good, some are okay
 | [0100-same-tree](https://github.com/rishit5/lcgrind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
+| [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -240,6 +242,7 @@ Some solutions are good, some are okay
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/rishit5/lcgrind/tree/master/0450-delete-node-in-a-bst) |
@@ -282,6 +285,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
@@ -370,6 +374,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishit5/lcgrind/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/rishit5/lcgrind/tree/master/0394-decode-string) |
@@ -466,6 +471,7 @@ Some solutions are good, some are okay
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 ## Concurrency
 |  |
