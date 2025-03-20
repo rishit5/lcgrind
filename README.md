@@ -98,6 +98,7 @@ Some solutions are good, some are okay
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishit5/lcgrind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rishit5/lcgrind/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/rishit5/lcgrind/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 | [2642-time-to-cross-a-bridge](https://github.com/rishit5/lcgrind/tree/master/2642-time-to-cross-a-bridge) |
@@ -127,6 +128,7 @@ Some solutions are good, some are okay
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishit5/lcgrind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/rishit5/lcgrind/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/rishit5/lcgrind/tree/master/2434-design-a-number-container-system) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/rishit5/lcgrind/tree/master/3254-number-of-divisible-triplet-sums) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishit5/lcgrind/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -217,6 +219,7 @@ Some solutions are good, some are okay
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/rishit5/lcgrind/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Some solutions are good, some are okay
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/rishit5/lcgrind/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
