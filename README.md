@@ -9,6 +9,7 @@ Some solutions are good, some are okay
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
+| [0199-binary-tree-right-side-view](https://github.com/rishit5/lcgrind/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -36,6 +37,7 @@ Some solutions are good, some are okay
 | [0126-word-ladder-ii](https://github.com/rishit5/lcgrind/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/rishit5/lcgrind/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -208,6 +210,7 @@ Some solutions are good, some are okay
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/rishit5/lcgrind/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
@@ -228,6 +231,7 @@ Some solutions are good, some are okay
 | [0101-symmetric-tree](https://github.com/rishit5/lcgrind/tree/master/0101-symmetric-tree) |
 | [0156-binary-tree-upside-down](https://github.com/rishit5/lcgrind/tree/master/0156-binary-tree-upside-down) |
 | [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/rishit5/lcgrind/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
