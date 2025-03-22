@@ -12,13 +12,13 @@ class Solution {
             if (currProd < k) {
                 result += start - end + 1;
             } else {
-                while (currProd >= k && end < nums.length) {
+                while (currProd >= k && end <= start) {
                     currProd /= nums[end];
                     end += 1;
                 }
-                if (end <= start) {
+                // if (end <= start) {
                     result += start - end + 1;
-                }
+                // }
             }
             start += 1;
         }
