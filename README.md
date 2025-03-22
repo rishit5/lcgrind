@@ -142,6 +142,7 @@ Some solutions are good, some are okay
 | [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0277-find-the-celebrity](https://github.com/rishit5/lcgrind/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/rishit5/lcgrind/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
@@ -191,6 +192,7 @@ Some solutions are good, some are okay
 | [0133-clone-graph](https://github.com/rishit5/lcgrind/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
+| [0277-find-the-celebrity](https://github.com/rishit5/lcgrind/tree/master/0277-find-the-celebrity) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -418,6 +420,7 @@ Some solutions are good, some are okay
 ## Interactive
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/rishit5/lcgrind/tree/master/0277-find-the-celebrity) |
 | [0865-robot-room-cleaner](https://github.com/rishit5/lcgrind/tree/master/0865-robot-room-cleaner) |
 ## Union Find
 |  |
