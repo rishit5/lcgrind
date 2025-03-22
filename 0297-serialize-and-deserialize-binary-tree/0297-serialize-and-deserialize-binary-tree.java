@@ -9,47 +9,46 @@
  */
 public class Codec {
 
-    private String rSerialize(TreeNode root, String str) {
+    private String serialized = ""; 
+
+    private void rSerialize(TreeNode root) {
         if (root == null) {
-            return str + "null,";
-        } else {
-            str += root.val + ",";
-            String lstr = rSerialize(root.left, str);
-            String rstr = rSerialize(root.right, lstr);
-            return rstr;
+            this.serialized += "null,";
+            return;
         }
+        this.serialized += "" + root.val + ",";
+        this.rSerialize(root.left);
+        this.rSerialize(root.right);
     }
 
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        String rString = rSerialize(root, "");
-        System.out.println(rString);
-        return rString;
+        this.serialized = "";
+        this.rSerialize(root);
+        return this.serialized;
     }
 
-    private int idx = 0;
+    private int counter;
 
-    private TreeNode build(String[] values) {
-        if (idx > values.length) {
-            return null;
-        }
-        if (values[idx].equals("null")) {
-            idx += 1;
+    private TreeNode rDeserialize(String[] splitData) {
+        if (splitData[this.counter].equals("null")) {
+            this.counter += 1;
             return null;
         } else {
-            TreeNode treeNode = new TreeNode();
-            treeNode.val = Integer.parseInt(values[idx]);
-            idx += 1;
-            treeNode.left = build(values);
-            treeNode.right = build(values);
-            return treeNode;
+            Integer curr = Integer.parseInt(splitData[this.counter]);
+            this.counter += 1;
+            TreeNode currNode = new TreeNode(curr);
+            currNode.left = rDeserialize(splitData);
+            currNode.right = rDeserialize(splitData);
+            return currNode;
         }
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        String[] values = data.split(",");
-        return build(values);
+        String[] splitData = data.substring(0, data.length() - 1).split(",");
+        this.counter = 0;
+        return rDeserialize(splitData);
     }
 }
 
