@@ -75,6 +75,7 @@ Some solutions are good, some are okay
 | [0245-shortest-word-distance-iii](https://github.com/rishit5/lcgrind/tree/master/0245-shortest-word-distance-iii) |
 | [0256-paint-house](https://github.com/rishit5/lcgrind/tree/master/0256-paint-house) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/rishit5/lcgrind/tree/master/0283-move-zeroes) |
 | [0311-sparse-matrix-multiplication](https://github.com/rishit5/lcgrind/tree/master/0311-sparse-matrix-multiplication) |
 | [0346-moving-average-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0346-moving-average-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
@@ -141,6 +142,7 @@ Some solutions are good, some are okay
 | [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0283-move-zeroes](https://github.com/rishit5/lcgrind/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
