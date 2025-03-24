@@ -34,7 +34,7 @@ class BoundedBlockingQueue {
         return result;
     }
     
-    public synchronized int size() {
+    public int size() {
         return this.list.size();
     }
 }
