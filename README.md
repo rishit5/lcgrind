@@ -27,6 +27,7 @@ Some solutions are good, some are okay
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rishit5/lcgrind/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -356,10 +357,12 @@ Some solutions are good, some are okay
 | [0143-reorder-list](https://github.com/rishit5/lcgrind/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rishit5/lcgrind/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rishit5/lcgrind/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rishit5/lcgrind/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
