@@ -1,40 +1,39 @@
 class BoundedBlockingQueue {
 
-    LinkedList<Integer> list;
+    Queue<Integer> queue = new LinkedList<>();
     Integer capacity;
+    ReentrantLock rl;
+    Condition condition;
 
     public BoundedBlockingQueue(int capacity) {
-        this.list = new LinkedList<>();
+        this.queue = new LinkedList<>();
         this.capacity = capacity;
+        this.rl = new ReentrantLock();
+        this.condition = this.rl.newCondition();
     }
     
-    public synchronized void enqueue(int element) throws InterruptedException {
-        while (this.list.size() == this.capacity) {
-            try {
-                wait();
-            } catch (Exception e) {
-
-            }
+    public void enqueue(int element) throws InterruptedException {
+        this.rl.lock();
+        while (queue.size() == this.capacity) {
+            this.condition.await();
         }
-        this.list.addLast(element);
-        notify();
-        return;
+        this.queue.offer(element);
+        this.condition.signal();
+        this.rl.unlock();
     }
     
-    public synchronized int dequeue() throws InterruptedException {
-        while (this.list.size() == 0) {
-            try {
-                wait();
-            } catch (Exception e) {
-
-            }
+    public int dequeue() throws InterruptedException {
+        this.rl.lock();
+        while (queue.size() == 0) {
+            this.condition.await();
         }
-        Integer result = this.list.removeFirst();
-        notify();
-        return result;
+        Integer val = this.queue.poll();
+        this.condition.signal();
+        this.rl.unlock();
+        return val;
     }
     
     public int size() {
-        return this.list.size();
+        return this.queue.size();
     }
 }
