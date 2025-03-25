@@ -146,6 +146,7 @@ Some solutions are good, some are okay
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0277-find-the-celebrity](https://github.com/rishit5/lcgrind/tree/master/0277-find-the-celebrity) |
 | [0283-move-zeroes](https://github.com/rishit5/lcgrind/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
@@ -175,6 +176,7 @@ Some solutions are good, some are okay
 | [0047-permutations-ii](https://github.com/rishit5/lcgrind/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0360-sort-transformed-array](https://github.com/rishit5/lcgrind/tree/master/0360-sort-transformed-array) |
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
@@ -300,6 +302,7 @@ Some solutions are good, some are okay
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0173-binary-search-tree-iterator](https://github.com/rishit5/lcgrind/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/rishit5/lcgrind/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0346-moving-average-from-data-stream) |
@@ -417,6 +420,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishit5/lcgrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0295-find-median-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -498,6 +502,7 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0295-find-median-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0346-moving-average-from-data-stream) |
 ## Database
 |  |
