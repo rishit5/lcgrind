@@ -23,25 +23,26 @@ class Solution {
                 }
             }
         } else {
+            index = answer.length - 1;
             while (left <= right) {
                 // When 'upward parabola' or a 'straight line' 
                 // we will put the edge element (bigger elements) first.
                 int leftTransformedVal = transform(nums[left], a, b, c);
                 int rightTransformedVal = transform(nums[right], a, b, c);
                 if (leftTransformedVal > rightTransformedVal) {
-                    answer[index++] = leftTransformedVal;
+                    answer[index--] = leftTransformedVal;
                     left++;
                 } else {
-                    answer[index++] = rightTransformedVal;
+                    answer[index--] = rightTransformedVal;
                     right--;
                 }
             }
             // Reverse the decreasing 'answer' array.
-            for (int i = 0; i < answer.length / 2; i++) {
-                int temp = answer[i];
-                answer[i] = answer[answer.length - i - 1];
-                answer[answer.length - i - 1] = temp;
-            }
+            // for (int i = 0; i < answer.length / 2; i++) {
+            //     int temp = answer[i];
+            //     answer[i] = answer[answer.length - i - 1];
+            //     answer[answer.length - i - 1] = temp;
+            // }
         }
         return answer;
     }
