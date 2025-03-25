@@ -96,6 +96,7 @@ Some solutions are good, some are okay
 | [0907-koko-eating-bananas](https://github.com/rishit5/lcgrind/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
 | [0983-validate-stack-sequences](https://github.com/rishit5/lcgrind/tree/master/0983-validate-stack-sequences) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/rishit5/lcgrind/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/rishit5/lcgrind/tree/master/1364-tuple-with-same-product) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rishit5/lcgrind/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -396,6 +397,7 @@ Some solutions are good, some are okay
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/rishit5/lcgrind/tree/master/0983-validate-stack-sequences) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/rishit5/lcgrind/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |
@@ -534,4 +536,8 @@ Some solutions are good, some are okay
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/rishit5/lcgrind/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
