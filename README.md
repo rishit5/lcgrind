@@ -30,6 +30,7 @@ Some solutions are good, some are okay
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rishit5/lcgrind/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishit5/lcgrind/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -233,6 +234,7 @@ Some solutions are good, some are okay
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishit5/lcgrind/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishit5/lcgrind/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -253,6 +255,7 @@ Some solutions are good, some are okay
 | [0543-diameter-of-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/rishit5/lcgrind/tree/master/0743-closest-leaf-in-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishit5/lcgrind/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/rishit5/lcgrind/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishit5/lcgrind/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -263,6 +266,7 @@ Some solutions are good, some are okay
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rishit5/lcgrind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/rishit5/lcgrind/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/rishit5/lcgrind/tree/master/0450-delete-node-in-a-bst) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishit5/lcgrind/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -388,6 +392,7 @@ Some solutions are good, some are okay
 | [0730-count-different-palindromic-subsequences](https://github.com/rishit5/lcgrind/tree/master/0730-count-different-palindromic-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/rishit5/lcgrind/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rishit5/lcgrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/rishit5/lcgrind/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
