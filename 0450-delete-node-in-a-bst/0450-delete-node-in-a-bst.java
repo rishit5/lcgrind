@@ -25,15 +25,13 @@ class Solution {
                 if (root.right == null) {
                     return root.left;
                 }
-                // if (root.left == null) {
-                //     return root.right;
-                // }
                 TreeNode successor = root.right;
-                while (successor != null) {
-                    root.val = successor.val;
+                while (successor.left != null) {
                     successor = successor.left;
                 }
-                root.right = deleteNodeFrom(root.right, root.val);
+                Integer value = successor.val;
+                root.val = value;
+                root.right = deleteNodeFrom(root.right, value);
                 return root;
             }
         } else {
