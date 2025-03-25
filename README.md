@@ -134,6 +134,7 @@ Some solutions are good, some are okay
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishit5/lcgrind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/rishit5/lcgrind/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rishit5/lcgrind/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/rishit5/lcgrind/tree/master/2434-design-a-number-container-system) |
 | [3254-number-of-divisible-triplet-sums](https://github.com/rishit5/lcgrind/tree/master/3254-number-of-divisible-triplet-sums) |
@@ -200,6 +201,7 @@ Some solutions are good, some are okay
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/rishit5/lcgrind/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0922-possible-bipartition](https://github.com/rishit5/lcgrind/tree/master/0922-possible-bipartition) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rishit5/lcgrind/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/rishit5/lcgrind/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Some solutions are good, some are okay
 | ------- |
 | [0207-course-schedule](https://github.com/rishit5/lcgrind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishit5/lcgrind/tree/master/0210-course-schedule-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/rishit5/lcgrind/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Math
 |  |
 | ------- |
@@ -386,6 +389,7 @@ Some solutions are good, some are okay
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rishit5/lcgrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/rishit5/lcgrind/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2570-maximize-total-tastiness-of-purchased-fruits](https://github.com/rishit5/lcgrind/tree/master/2570-maximize-total-tastiness-of-purchased-fruits) |
 ## Stack
 |  |
@@ -415,6 +419,7 @@ Some solutions are good, some are okay
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
 | [1364-tuple-with-same-product](https://github.com/rishit5/lcgrind/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishit5/lcgrind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/rishit5/lcgrind/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -470,6 +475,7 @@ Some solutions are good, some are okay
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0464-can-i-win](https://github.com/rishit5/lcgrind/tree/master/0464-can-i-win) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/rishit5/lcgrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/rishit5/lcgrind/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Matrix
 |  |
 | ------- |
