@@ -25,9 +25,9 @@ class Solution {
                 if (root.right == null) {
                     return root.left;
                 }
-                if (root.left == null) {
-                    return root.right;
-                }
+                // if (root.left == null) {
+                //     return root.right;
+                // }
                 TreeNode successor = root.right;
                 while (successor != null) {
                     root.val = successor.val;
