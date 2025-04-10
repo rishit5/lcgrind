@@ -97,6 +97,7 @@ Some solutions are good, some are okay
 | [0907-koko-eating-bananas](https://github.com/rishit5/lcgrind/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/rishit5/lcgrind/tree/master/0912-random-pick-with-weight) |
 | [0983-validate-stack-sequences](https://github.com/rishit5/lcgrind/tree/master/0983-validate-stack-sequences) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/rishit5/lcgrind/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/rishit5/lcgrind/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/rishit5/lcgrind/tree/master/1364-tuple-with-same-product) |
@@ -131,6 +132,7 @@ Some solutions are good, some are okay
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/rishit5/lcgrind/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1364-tuple-with-same-product](https://github.com/rishit5/lcgrind/tree/master/1364-tuple-with-same-product) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -184,6 +186,7 @@ Some solutions are good, some are okay
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/rishit5/lcgrind/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Divide and Conquer
