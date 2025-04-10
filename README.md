@@ -329,6 +329,7 @@ Some solutions are good, some are okay
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishit5/lcgrind/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishit5/lcgrind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rishit5/lcgrind/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/rishit5/lcgrind/tree/master/0065-valid-number) |
@@ -472,6 +473,7 @@ Some solutions are good, some are okay
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishit5/lcgrind/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
