@@ -56,6 +56,7 @@ Some solutions are good, some are okay
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishit5/lcgrind/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishit5/lcgrind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishit5/lcgrind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishit5/lcgrind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -119,6 +120,7 @@ Some solutions are good, some are okay
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishit5/lcgrind/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishit5/lcgrind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0126-word-ladder-ii](https://github.com/rishit5/lcgrind/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
