@@ -295,6 +295,7 @@ Some solutions are good, some are okay
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rishit5/lcgrind/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/rishit5/lcgrind/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/rishit5/lcgrind/tree/master/0149-max-points-on-a-line) |
 | [0282-expression-add-operators](https://github.com/rishit5/lcgrind/tree/master/0282-expression-add-operators) |
