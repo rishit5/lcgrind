@@ -128,6 +128,7 @@ Some solutions are good, some are okay
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/rishit5/lcgrind/tree/master/0149-max-points-on-a-line) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rishit5/lcgrind/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0205-isomorphic-strings](https://github.com/rishit5/lcgrind/tree/master/0205-isomorphic-strings) |
 | [0311-sparse-matrix-multiplication](https://github.com/rishit5/lcgrind/tree/master/0311-sparse-matrix-multiplication) |
 | [0349-intersection-of-two-arrays](https://github.com/rishit5/lcgrind/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
@@ -344,6 +345,7 @@ Some solutions are good, some are okay
 | [0126-word-ladder-ii](https://github.com/rishit5/lcgrind/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rishit5/lcgrind/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/rishit5/lcgrind/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/rishit5/lcgrind/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rishit5/lcgrind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0245-shortest-word-distance-iii](https://github.com/rishit5/lcgrind/tree/master/0245-shortest-word-distance-iii) |
 | [0282-expression-add-operators](https://github.com/rishit5/lcgrind/tree/master/0282-expression-add-operators) |
