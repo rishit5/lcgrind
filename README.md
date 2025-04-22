@@ -134,6 +134,7 @@ Some solutions are good, some are okay
 | [0380-insert-delete-getrandom-o1](https://github.com/rishit5/lcgrind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/rishit5/lcgrind/tree/master/0432-all-oone-data-structure) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/rishit5/lcgrind/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/rishit5/lcgrind/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1364-tuple-with-same-product](https://github.com/rishit5/lcgrind/tree/master/1364-tuple-with-same-product) |
@@ -189,6 +190,7 @@ Some solutions are good, some are okay
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/rishit5/lcgrind/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/rishit5/lcgrind/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rishit5/lcgrind/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -357,6 +359,7 @@ Some solutions are good, some are okay
 | [0721-accounts-merge](https://github.com/rishit5/lcgrind/tree/master/0721-accounts-merge) |
 | [0730-count-different-palindromic-subsequences](https://github.com/rishit5/lcgrind/tree/master/0730-count-different-palindromic-subsequences) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/rishit5/lcgrind/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0778-reorganize-string](https://github.com/rishit5/lcgrind/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/rishit5/lcgrind/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/rishit5/lcgrind/tree/master/0961-long-pressed-name) |
@@ -426,12 +429,14 @@ Some solutions are good, some are okay
 | [0605-can-place-flowers](https://github.com/rishit5/lcgrind/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/rishit5/lcgrind/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/rishit5/lcgrind/tree/master/0678-valid-parenthesis-string) |
+| [0778-reorganize-string](https://github.com/rishit5/lcgrind/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rishit5/lcgrind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rishit5/lcgrind/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rishit5/lcgrind/tree/master/0274-h-index) |
+| [0778-reorganize-string](https://github.com/rishit5/lcgrind/tree/master/0778-reorganize-string) |
 | [1364-tuple-with-same-product](https://github.com/rishit5/lcgrind/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishit5/lcgrind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/rishit5/lcgrind/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -443,6 +448,7 @@ Some solutions are good, some are okay
 | [0295-find-median-from-data-stream](https://github.com/rishit5/lcgrind/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishit5/lcgrind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/rishit5/lcgrind/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/rishit5/lcgrind/tree/master/0778-reorganize-string) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/rishit5/lcgrind/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2434-design-a-number-container-system](https://github.com/rishit5/lcgrind/tree/master/2434-design-a-number-container-system) |
 | [2642-time-to-cross-a-bridge](https://github.com/rishit5/lcgrind/tree/master/2642-time-to-cross-a-bridge) |
