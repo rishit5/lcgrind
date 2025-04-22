@@ -10,7 +10,7 @@ class Solution {
                 maxLetter = s.charAt(i) - 'a';
             }
         }
-        System.out.println(maxCount);
+        // System.out.println(maxCount);
         if (maxCount > (s.length() + 1) / 2) {
             return "";
         }
