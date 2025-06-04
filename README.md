@@ -162,6 +162,7 @@ Some solutions are good, some are okay
 | [0961-long-pressed-name](https://github.com/rishit5/lcgrind/tree/master/0961-long-pressed-name) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rishit5/lcgrind/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rishit5/lcgrind/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1894-merge-strings-alternately](https://github.com/rishit5/lcgrind/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -365,6 +366,7 @@ Some solutions are good, some are okay
 | [0961-long-pressed-name](https://github.com/rishit5/lcgrind/tree/master/0961-long-pressed-name) |
 | [1119-robot-bounded-in-circle](https://github.com/rishit5/lcgrind/tree/master/1119-robot-bounded-in-circle) |
 | [1250-longest-common-subsequence](https://github.com/rishit5/lcgrind/tree/master/1250-longest-common-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/rishit5/lcgrind/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishit5/lcgrind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rishit5/lcgrind/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Simulation
